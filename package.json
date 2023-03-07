@@ -3,3 +3,6 @@
     "@angular/router": "^14.2.12"
   }
 }
+"scripts": {
+  "start": "start"
+}
