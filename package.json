@@ -1,8 +1,8 @@
 {
   "dependencies": {
     "@angular/router": "^14.2.12"
+  },
+  "scripts": {
+    "start": "command to start your app"
   }
-}
-"scripts": {
-  "start": "start"
 }
